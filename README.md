@@ -1,0 +1,2 @@
+# EmployeeManagement-
+This is a Java Standalone Application which manages and tracks all functionalities performed by Employees in a Company. Details include Personal information,  Contact information, Qualification and Photo Id. It maintains an in-built table where user can view details of all Employees. It also provides search button to filter preferences. It also provides add new, delete, update and clear options. Print option is available which allows user to generate pdf and take print of existing table contents of Employee Details.
